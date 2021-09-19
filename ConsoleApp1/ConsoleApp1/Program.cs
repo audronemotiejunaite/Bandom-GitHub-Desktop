@@ -1,13 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 
-fsdfgnamespace ConsoleApp1
+namespace ConsoleApp1
 {
-    cvsfdvslass Program
+    class Program
     {
-        stadvsdtic void Main(string[] args)
+        static void Main(string[] args)
         {
-            List<string> Sara
+            List<string> Sarasas = new List<string>();
+
+            for (int i = 0; i < Sarasas.Count; i++)
+            {
+                Console.WriteLine(Sarasas[i]);
             }
         }
     }
